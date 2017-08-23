@@ -1,3 +1,3 @@
 README
 
-Programming language used: 
+Programming language used: python(q1),c++(q2)
