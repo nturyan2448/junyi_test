@@ -18,6 +18,7 @@ int main()
                 list.push_back(i);
                 continue;
             }
+            else continue;
         }
         else if (i % 5 == 0) continue;
         else list.push_back(i);
